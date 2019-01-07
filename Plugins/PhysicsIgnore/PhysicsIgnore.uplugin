@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PhysicsIgnore",
+	"Description": "Make Engine Surpport Ignore Collision Between Two Specific PhysX Objects",
+	"Category": "Other",
+	"CreatedBy": "weipengsong",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "PhysicsIgnore",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
